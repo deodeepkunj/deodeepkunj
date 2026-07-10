@@ -1,128 +1,136 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Deodeep%20Kunj&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Engineering%20Scalable%20Frontend%20Systems&descSize=20&descAlignY=60" 
-    width="100%" 
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Deodeep%20Kunj&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Engineering%20Scalable%20Frontend%20Systems&descSize=20&descAlignY=60"
+  width="100%"
+/>
 
-  <br/>
+<p>
+  <a href="https://deodeep.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/deodeepkunj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@deodeepkunj"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:deodeepkunj@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-  <table>
-    <tr>
-      <td><b>Role</b><br/>Senior Frontend Engineer</td>
-      <td><b>Experience</b><br/>6+ Years</td>
-      <td><b>Focus</b><br/>React & Next.js</td>
-      <td><b>Availability</b><br/>Freelance / Remote</td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center"><b>Role</b><br/>Senior Frontend Engineer</td>
+<td align="center"><b>Experience</b><br/>6+ Years</td>
+<td align="center"><b>Focus</b><br/>React &amp; Next.js</td>
+<td align="center"><b>Status</b><br/>🟢 Open to Freelance</td>
+</tr>
+</table>
 </div>
 
----
+<br/>
 
-## 💎 The Frontend Philosophy
+## 💎 Philosophy
 
-*Frontend is not about components — it’s about **systems that don’t collapse under growth**.*
+> **Frontend isn't about components — it's about systems that don't collapse under growth.**
+>
+> Great UI wins users. Great architecture saves teams.
 
-> “Great UI wins users.  
-> Great architecture saves teams.”
+I work deeply in the **React & Next.js** ecosystem, building applications where **SEO, performance, and maintainability** are non-negotiable — blending clear architectural boundaries, type-safe development, and deliberate UI decisions.
 
-I work deeply in the **React & Next.js ecosystem**, building applications where **SEO, performance, and maintainability
-** are non-negotiable.  
-My approach blends **clear architectural boundaries**, **type-safe development**, and **deliberate UI decisions**.
-
----
+<br/>
 
 ## 🧠 What I Optimize For
 
-- Predictable rendering strategies (SSR / SSG / ISR)
-- Feature-based & feature-sliced architectures
-- State that is explicit, testable, and boring (in a good way)
-- UI systems that scale with teams, not just traffic
-- Developer Experience as a quality multiplier
+`Predictable rendering (SSR / SSG / ISR)` &nbsp;•&nbsp; `Feature-sliced architecture` &nbsp;•&nbsp; `Explicit, testable state` &nbsp;•&nbsp; `UI systems that scale with teams` &nbsp;•&nbsp; `Developer experience as leverage`
 
----
+<br/>
 
-## 📂 Selected Engineering Case Studies
+## 📂 Selected Case Studies
 
-*Real problems. Real constraints. Thoughtful solutions.*
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 01. CMS-Driven University Platform
+**01 · CMS-Driven University Platform**
 
-**The Challenge:**  
-Building SEO-critical, high-traffic pages with dynamic CTAs and deeply structured content.
+SEO-critical, high-traffic pages with dynamic CTAs.
 
-- **Architecture:** Next.js App Router + Feature-based design
-- **Rendering:** Hybrid SSR + Static Generation
-- **Content Layer:** Headless CMS (Contentful)
-- **Outcome:** Faster TTFB, predictable UI logic, scalable codebase
+`Next.js App Router` `Hybrid SSR + SSG` `Contentful`
 
----
+→ *Faster TTFB, scalable codebase*
 
-### 02. Micro Frontend Architecture (React)
+</td>
+<td width="33%" valign="top">
 
-**The Challenge:**  
-Independent product modules with shared UI and modal flows.
+**02 · Micro Frontend Architecture**
 
-- **Architecture:** Webpack Module Federation
-- **Design:** Isolated MFEs with shared contracts
-- **Deployment:** Independent builds & releases
-- **Outcome:** Reduced coupling, faster team velocity
+Independent product modules with shared UI.
 
----
+`Module Federation` `Isolated MFEs` `Independent releases`
 
-### 03. Multi-Step Review & Media Upload System
+→ *Reduced coupling, faster velocity*
 
-**The Challenge:**  
-Managing complex UI state across steps with validation and persistence.
+</td>
+<td width="33%" valign="top">
 
-- **State Strategy:** Centralized form context
-- **UX:** Progressive disclosure & gated navigation
-- **Persistence:** Local storage + API sync
-- **Outcome:** Reduced drop-offs, predictable flows
+**03 · Multi-Step Media Upload**
 
----
+Complex UI state with validation & persistence.
 
-## 🏗️ Technical Matrix
+`Form context` `Progressive disclosure` `LocalStorage + API sync`
 
-*A focused snapshot of my working toolkit.*
+→ *Reduced drop-offs, predictable flows*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏗️ Toolkit
 
 <div align="center">
 
-| **Frontend Core**                                                           | **Backend & Infra**                                                     | **Tooling & DX**                                                             |
-|:----------------------------------------------------------------------------|:------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
+| **Frontend Core** | **Backend & Infra** | **Tooling & DX** |
+|:--|:--|:--|
 | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,remix,astro" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" /> | <img src="https://skillicons.dev/icons?i=git,githubactions,webpack,figma" /> |
-| UI & Rendering Systems                                                      | APIs & Cloud                                                            | Build, CI/CD & Design                                                        |
+| UI & Rendering | APIs & Cloud | Build, CI/CD & Design |
 
 </div>
 
+<br/>
+
+## ✍️ Writing
+
+I write to turn experience into repeatable patterns.
+
+- [Best Architecture Design for Frontend Applications](#)
+- [Crafting Predictable React Apps with XState](#)
+- [Why Remix.js Is a Game-Changer for Full-Stack Development](#)
+
+<br/>
+
+## 🛠️ Currently Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Now**
+
+- Scalable frontend architecture with Next.js
+- Edge-first UI systems & advanced rendering
+- Design-system driven component libraries
+
+</td>
+<td width="50%" valign="top">
+
+**Thinking About**
+
+- Rendering strategy trade-offs (SSR / ISR)
+- Frontend architecture debt at scale
+- Developer experience as leverage
+
+</td>
+</tr>
+</table>
+
 ---
 
-## ✍️ Writing & Thought Process
-
-I write to **turn experience into repeatable patterns**.
-
-📌 Selected Articles:
-
-- **Best Architecture Design for Frontend Applications**
-- **Crafting Predictable React Apps with XState**
-- **Why Remix.js Is a Game-Changer for Full-Stack Development**
-
-📝 Blog → https://medium.com/@deodeepkunj  
-🌐 Portfolio → https://deodeep.dev  
-💼 LinkedIn → https://www.linkedin.com/in/deodeepkunj
-
-
----
-
-## 🛠️ Current Execution Context
-
-```json
-{
-  "current_focus": "Designing scalable frontend architecture with Next.js",
-  "thinking_about": [
-    "rendering strategy trade-offs",
-    "frontend architecture debt",
-    "developer experience as leverage"
-  ],
-  "daily_tools": "VS Code / Git / CI Pipelines",
-  "learning_next": ["Advanced rendering patterns", "Edge-first UI systems"]
-}
+<div align="center">
+<sub>Daily driver: VS Code · Git · CI pipelines &nbsp;|&nbsp; Let's build something that scales → <a href="https://deodeep.dev">deodeep.dev</a></sub>
+</div>
